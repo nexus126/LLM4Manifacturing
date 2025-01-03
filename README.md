@@ -1,4 +1,4 @@
-# LLM4Manifacturing
+# LLM4Manufacturing
 Bridge the gap between advanced nlp techniques and manifacturing.
 # Contributors:
 Serena Proietti(1), Emanuele Fiocco(1), Nicolò Sabetta(2), Federico Ranaldi(1)
